@@ -34,6 +34,10 @@ I'm Odoo website and themes expert. I worked in Odoo's R&D department for 3 year
 
 </p>
 
+### Socials
+
+<p align="left"><a href="https://www.linkedin.com/in/in/kishan-gajjar-469b00104/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kishanegajjar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 <a href="https://www.twitter.com/kishanegajjar" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/kishanegajjar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/kig-odoo" target="_blank" rel="noreferrer"><img
