@@ -30,6 +30,7 @@ I'm Odoo website and themes expert. I worked in Odoo's R&D department for 3 year
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="http://odoo.com" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6368483?s=200&v=4" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
 <a href="https://www.twitter.com/kishanegajjar" target="_blank" rel="noreferrer"><img
