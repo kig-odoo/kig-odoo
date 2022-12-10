@@ -6,12 +6,12 @@ Website, eCommerce Expert, Designer, Odoo
 
 I'm Odoo website and themes expert. I worked in Odoo's R&D department for 3 years and worked several key features like theme color picker, crop dialog, social app, etc. He is a design geek and always wants pixel perfect design. I loves to play video games and I love my PS5. I named my daughter Aarya (A girl is no one) so i can be a ned stark but i don't want to die early and i love my head.
 
-*   🌍  I'm based in india
+*   🌍  I'm based in india.
 *   ✉️  You can contact me at [kig@droggol.com](mailto:kig@droggol.com)
-*   🧠  I'm learning something cool
+*   🧠  I'm learning something cool.
 *   🤝  I'm open to collaborating on interesting in any project that have a Javascript :)
 *   ⚡  I'm secretly Batman... but don't tell anyone :)
-
+*   😍  Huge crush for OWL.
                   
  ### Skills 
 <p align="left">
